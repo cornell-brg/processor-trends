@@ -1,6 +1,7 @@
 
 Processor Trends Data
 ==========================================================================
+
  - Author : Christopher Batten (cbatten@cornell.edu)
  - Date   : Fall 2022
 
@@ -86,7 +87,11 @@ point of the slide, and weren't really for SPECint anyways. You can find
 the SVG in 'svg/processor-trends.svg' and a PDF of the plot in
 'svg/processor-trends.pdf'.
 
-In 2022, I added some more processor data and also added SPECrate data
-from C. Leiserson et al., Science'20 paper and Apple SoC accelerator
-count data from Y. Shao et al., IEEE Micro 2015 paper.
+In 2022, I incorporated new data points from Karl Rupp:
+
+ - https://github.com/karlrupp/microprocessor-trend-data
+
+I also added SPECrate data from C. Leiserson et al., Science'20 paper and
+Apple SoC accelerator count data from Y. Shao et al., IEEE Micro 2015
+paper.
 
