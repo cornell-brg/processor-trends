@@ -1,0 +1,227 @@
+Benchmark,"Hardware Vendor	",System,"# Cores","# Chips","# Cores Per Chip",Result,Baseline,Published
+CINT2006,"Intel Corporation","ASUS Z97-A motherboard (Intel Core i5-4690K)",4,1,4,60.2,58.2,Jun-2014
+CINT2006,"Intel Corporation","ASUS Z97-A motherboard (Intel Core i7-4770K)",4,1,4,61.4,59.3,Jun-2014
+CINT2006,"Intel Corporation","ASUS Z97-A motherboard (Intel Core i7-4790K)",4,1,4,67.6,65.2,Jun-2014
+CINT2006,"Intel Corporation","ASUS Z97-A motherboard (Intel Core i7-4790K)",4,1,4,67.9,65.4,Jun-2014
+CINT2006,"Intel Corporation","Alienware Area-51 M15x-R1 (Intel Core 2 Duo T9500)",2,1,2,20.2,18.3,Jan-2008
+CINT2006,"Intel Corporation","Alienware Area-51 M15x-R1 (Intel Core 2 Extreme X7900)",2,1,2,19.8,18.3,Jan-2008
+CINT2006,"Intel Corporation","Alienware Area-51 M15x-R1 (Intel Core 2 Extreme X9000)",2,1,2,20.7,19,Jan-2008
+CINT2006,"Intel Corporation","Asus P5E3 Deluxe (Intel Core 2 Duo E6850)",2,1,2,23,21.3,Nov-2007
+CINT2006,"Intel Corporation","Asus P5E3 Deluxe (Intel Core 2 Extreme QX6850)",4,1,4,23.6,21.6,Nov-2007
+CINT2006,"Intel Corporation","Asus P5E3 Deluxe (Intel Core 2 Extreme QX9650)",4,1,4,25.5,22.3,Nov-2007
+CINT2006,"Intel Corporation","Asus P5E3 Pro motherboard (Intel Core 2 Duo E8600)",2,1,2,28.1,27,Mar-2010
+CINT2006,"Intel Corporation","Asus P5E3 Pro motherboard (Intel Core 2 Extreme QX9770)",4,1,4,28.4,27.3,Mar-2010
+CINT2006,"Intel Corporation","Intel D975XBX motherboard (3.73 GHz, Intel Pentium processor Extreme Edition 965)",2,1,2,0,11.7,Aug-2006
+CINT2006,"Intel Corporation","Intel D975XBX2 motherboard (Intel Core 2 Quad QX6800)",4,1,4,22.1,20.2,Nov-2007
+CINT2006,"Intel Corporation","Intel DG965SS motherboard (1.8 GHz, Intel Core 2 Duo processor E4300)",2,1,2,0,11.4,Feb-2007
+CINT2006,"Intel Corporation","Intel DG965SS motherboard (2.66 GHz, Intel Pentium D processor 805)",2,1,2,0,8.08,Feb-2007
+CINT2006,"Intel Corporation","Intel DG965WH motherboard (1.86 GHz, Intel Core 2 Duo processor E6300)",2,1,2,0,12.3,Feb-2007
+CINT2006,"Intel Corporation","Intel DG965WH motherboard (2.13 GHz, Intel Core 2 Duo processor E6400)",2,1,2,0,13.6,Feb-2007
+CINT2006,"Intel Corporation","Intel DG965WH motherboard (2.40 GHz, Intel Core 2 Duo processor E6600)",2,1,2,0,15.8,Feb-2007
+CINT2006,"Intel Corporation","Intel DG965WH motherboard (2.67 GHz, Intel Core 2 Duo processor E6700)",2,1,2,0,17.1,Feb-2007
+CINT2006,"Intel Corporation","Intel DG965WH motherboard (2.8 GHz, Intel Pentium D processor 920)",2,1,2,0,9.31,Feb-2007
+CINT2006,"Intel Corporation","Intel DG965WH motherboard (2.93 GHz, Intel Core 2 Extreme processor X6800)",2,1,2,0,18.5,Sep-2006
+CINT2006,"Intel Corporation","Intel DG965WH motherboard (3.0 GHz, Intel Pentium D processor 930)",2,1,2,0,9.85,Feb-2007
+CINT2006,"Intel Corporation","Intel DG965WH motherboard (3.2 GHz, Intel Pentium D processor 940)",2,1,2,0,10.4,Feb-2007
+CINT2006,"Intel Corporation","Intel DG965WH motherboard (3.4 GHz, Intel Pentium D processor 950)",2,1,2,0,10.9,Feb-2007
+CINT2006,"Intel Corporation","Intel DG965WH motherboard (3.60 GHz, Intel Pentium D processor 960)",2,1,2,0,11.4,Feb-2007
+CINT2006,"Intel Corporation","Intel DG965WH motherboard (Intel Core 2 Duo E6700)",2,1,2,20,17.9,Aug-2007
+CINT2006,"Intel Corporation","Intel DH57JG Motherboard (Intel Core i3-530)",2,1,2,28.2,26.9,Aug-2011
+CINT2006,"Intel Corporation","Intel DH57JG Motherboard (Intel Core i3-540)",2,1,2,29.2,27.8,Aug-2011
+CINT2006,"Intel Corporation","Intel DH57JG Motherboard (Intel Core i3-540)",2,1,2,26.3,25.2,Dec-2010
+CINT2006,"Intel Corporation","Intel DH57JG Motherboard (Intel Core i3-550)",2,1,2,31,29.6,Aug-2011
+CINT2006,"Intel Corporation","Intel DH57JG Motherboard (Intel Core i3-560)",2,1,2,31.9,30.4,Aug-2011
+CINT2006,"Intel Corporation","Intel DH57JG Motherboard (Intel Core i5-650)",2,1,2,32.2,30.7,Aug-2011
+CINT2006,"Intel Corporation","Intel DH57JG Motherboard (Intel Core i5-650)",2,1,2,28.9,27.7,Dec-2010
+CINT2006,"Intel Corporation","Intel DH57JG Motherboard (Intel Core i5-660)",2,1,2,33.2,31.5,Aug-2011
+CINT2006,"Intel Corporation","Intel DH57JG Motherboard (Intel Core i5-661)",2,1,2,33.1,31.5,Aug-2011
+CINT2006,"Intel Corporation","Intel DH57JG Motherboard (Intel Core i5-670)",2,1,2,34,32.2,Aug-2011
+CINT2006,"Intel Corporation","Intel DH57JG Motherboard (Intel Core i5-680)",2,1,2,34.2,32.7,Aug-2011
+CINT2006,"Intel Corporation","Intel DH57JG motherboard (Intel Core i5-661)",2,1,2,30,28.5,Mar-2010
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Celeron G540)",2,1,2,27.7,25.6,Nov-2011
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Core i3-2120)",2,1,2,38.4,36.9,Oct-2011
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Core i3-2130)",2,1,2,41.2,39.6,Jan-2012
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Core i5-2300)",4,1,4,39,37.1,Oct-2011
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Core i5-2310)",4,1,4,42.3,40.3,Jan-2012
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Core i5-2400)",4,1,4,42,39.9,Dec-2011
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Pentium G620)",2,1,2,31.9,30.5,Jan-2012
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Pentium G620)",2,1,2,30.6,29.3,Oct-2011
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Pentium G630)",2,1,2,33.3,31.8,Jan-2012
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Pentium G630)",2,1,2,31.2,29.8,Nov-2011
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Pentium G840)",2,1,2,35,33.5,Jan-2012
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Pentium G840)",2,1,2,34.5,33.1,Jan-2012
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Pentium G850)",2,1,2,34.2,32.6,Dec-2011
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Pentium G850)",2,1,2,33.7,32.3,Oct-2011
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Pentium G860)",2,1,2,34.6,31.9,Oct-2011
+CINT2006,"Intel Corporation","Intel DH61WW motherboard (Intel Pentium G860)",2,1,2,34.1,31.6,Oct-2011
+CINT2006,"Intel Corporation","Intel DH67BL Motherboard (Intel Core i5-2320)",4,1,4,43.6,41.5,Aug-2012
+CINT2006,"Intel Corporation","Intel DH67BL Motherboard (Intel Pentium G870)",2,1,2,37.8,36.4,Nov-2012
+CINT2006,"Intel Corporation","Intel DH67BL motherboard (Intel Core i7-2700K)",4,1,4,52.4,49.9,Jun-2014
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i3-2100)",2,1,2,34.9,33.4,May-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i3-2100T)",2,1,2,30.4,29.2,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i3-2100T)",2,1,2,29,27.8,May-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i3-2120)",2,1,2,38.5,36.8,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i3-2120)",2,1,2,36.7,35.2,Apr-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2300)",4,1,4,37.4,35.5,May-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2310)",4,1,4,38.5,36.5,May-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2390T)",2,1,2,39.6,35.6,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2390T)",2,1,2,37.8,35.8,May-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2400)",4,1,4,42.1,40,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2400)",4,1,4,40.5,38.5,Apr-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2400S)",4,1,4,38.7,36,May-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2500)",4,1,4,45.1,42.7,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2500)",4,1,4,43.3,41.1,Apr-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2500K)",4,1,4,45,42.8,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2500K)",4,1,4,43.3,41,May-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2500S)",4,1,4,43.8,41.8,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2500S)",4,1,4,42.8,39.5,May-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2500T)",4,1,4,40.4,37.1,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i5-2500T)",4,1,4,38.7,35.5,May-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i7-2600)",4,1,4,47.1,44.6,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i7-2600)",4,1,4,45.1,42.7,Apr-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i7-2600K)",4,1,4,47.1,44.6,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i7-2600K)",4,1,4,45.1,42.8,May-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i7-2600S)",4,1,4,46.4,42.9,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Core i7-2600S)",4,1,4,44.4,41,May-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Pentium G620T)",2,1,2,26.2,24.9,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Pentium G840)",2,1,2,33.1,31.7,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 Motherboard (Intel Pentium G850)",2,1,2,34.1,32.7,Aug-2011
+CINT2006,"Intel Corporation","Intel DH67BLB3 motherboard (Intel Core i7-2700K)",4,1,4,47.9,45.5,Dec-2011
+CINT2006,"Intel Corporation","Intel DH77KC Motherboard (Intel Core i3-3220)",2,1,2,41.7,40,Nov-2012
+CINT2006,"Intel Corporation","Intel DH77KC Motherboard (Intel Core i3-3240)",2,1,2,42.9,41.1,Nov-2012
+CINT2006,"Intel Corporation","Intel DH77KC Motherboard (Intel Core i5-3330)",4,1,4,44.2,41.9,Nov-2012
+CINT2006,"Intel Corporation","Intel DH77KC Motherboard (Intel Core i5-3470)",4,1,4,48.8,46.3,Nov-2012
+CINT2006,"Intel Corporation","Intel DH77KC motherboard (Intel Core i5-3450)",4,1,4,47.6,45.2,Jul-2012
+CINT2006,"Intel Corporation","Intel DH77KC motherboard (Intel Core i5-3470S)",4,1,4,48.5,45.7,Jul-2012
+CINT2006,"Intel Corporation","Intel DH77KC motherboard (Intel Core i5-3470T)",2,1,2,44.3,39.9,Jul-2012
+CINT2006,"Intel Corporation","Intel DH77KC motherboard (Intel Core i5-3570)",4,1,4,51.1,48.5,Jul-2012
+CINT2006,"Intel Corporation","Intel DH77KC motherboard (Intel Core i5-3570K)",4,1,4,51.1,48.5,Jul-2012
+CINT2006,"Intel Corporation","Intel DH77KC motherboard (Intel Core i5-3570S)",4,1,4,50.9,47.9,Jul-2012
+CINT2006,"Intel Corporation","Intel DH77KC motherboard (Intel Core i5-3570T)",4,1,4,44.9,42.3,Jul-2012
+CINT2006,"Intel Corporation","Intel DH77KC motherboard (Intel Core i7-3770)",4,1,4,53.2,50.5,Jul-2012
+CINT2006,"Intel Corporation","Intel DH77KC motherboard (Intel Core i7-3770K)",4,1,4,54.4,51.9,Jun-2014
+CINT2006,"Intel Corporation","Intel DH77KC motherboard (Intel Core i7-3770K)",4,1,4,53.2,50.3,Jul-2012
+CINT2006,"Intel Corporation","Intel DH77KC motherboard (Intel Core i7-3770S)",4,1,4,52.9,49.7,Jul-2012
+CINT2006,"Intel Corporation","Intel DH77KC motherboard (Intel Core i7-3770T)",4,1,4,50.2,46.9,Jul-2012
+CINT2006,"Intel Corporation","Intel DH77KC motherboard (Intel i7-3770K)",4,1,4,54.4,52,Jun-2014
+CINT2006,"Intel Corporation","Intel DH87MC motherboard (Intel Core i5-4570)",4,1,4,55.7,53.7,Sep-2013
+CINT2006,"Intel Corporation","Intel DP55KG Motherboard (Intel Core i7-860)",4,1,4,37.9,35.1,Aug-2011
+CINT2006,"Intel Corporation","Intel DP55KG Motherboard (Intel Core i7-870)",4,1,4,39,36.4,Aug-2011
+CINT2006,"Intel Corporation","Intel DP55KG Motherboard (Intel Core i7-870S)",4,1,4,38.8,35.3,Aug-2011
+CINT2006,"Intel Corporation","Intel DP55KG Motherboard (Intel Core i7-880)",4,1,4,40,37.5,Aug-2011
+CINT2006,"Intel Corporation","Intel DP55KG motherboard (Intel Core i7-870)",4,1,4,34.6,32.5,Mar-2010
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Core 2 Duo E7200)",2,1,2,21.4,19.6,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Core 2 Duo E7300)",2,1,2,22.3,20.4,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Core 2 Duo E7400)",2,1,2,23,21.1,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Core 2 Duo E7600)",2,1,2,24.4,22.5,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Core 2 Duo E8200)",2,1,2,23.9,21.9,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Core 2 Duo E8400)",2,1,2,26.3,24.2,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Core 2 Duo E8500)",2,1,2,27.9,25.6,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Core 2 Duo E8600)",2,1,2,28.7,26.4,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Core 2 Quad Q8200)",4,1,4,20,18.3,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Core 2 Quad Q8300)",4,1,4,21.2,19.4,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Core 2 Quad Q8400)",4,1,4,22,20,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Core 2 Quad Q9400)",4,1,4,22.9,20.9,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Core 2 Quad Q9650)",4,1,4,27.5,25,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ45CB motherboard (Intel Pentium E5200)",2,1,2,19.8,18.2,Jun-2009
+CINT2006,"Intel Corporation","Intel DQ77MK motherboard (Intel Core i3-3220)",2,1,2,42.4,40.3,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ77MK motherboard (Intel Core i3-3245)",2,1,2,43.4,41.2,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ77MK motherboard (Intel Core i5-3330)",4,1,4,44.7,42,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ77MK motherboard (Intel Core i5-3330S)",4,1,4,44.4,41.3,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ77MK motherboard (Intel Core i5-3340)",4,1,4,45.7,42.9,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ77MK motherboard (Intel Core i5-3450)",4,1,4,48.3,45.4,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ77MK motherboard (Intel Core i5-3450S)",4,1,4,47.9,44.7,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ77MK motherboard (Intel Pentium G2010)",2,1,2,36.7,34.8,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ77MK motherboard (Intel Pentium G2030)",2,1,2,38.9,37,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ77MK motherboard (Intel Pentium G2030T)",2,1,2,34.5,32.8,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ77MK motherboard (Intel Pentium G2120T)",2,1,2,36.1,34.2,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ77MK motherboard (Intel Pentium G2140)",2,1,2,42.5,40.4,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Celeron G1820)",2,1,2,37.8,36.1,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Celeron G1820T)",2,1,2,34,32.5,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Celeron G1830)",2,1,2,38.8,37.2,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Core i3-4130)",2,1,2,49.2,47.6,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Core i3-4130T)",2,1,2,43.3,41.8,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Core i3-4330)",2,1,2,51.6,49.9,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Core i3-4340)",2,1,2,52.8,51.1,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Core i5-4430)",4,1,4,47.8,46.1,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Core i5-4440)",4,1,4,49.2,47.5,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Core i5-4440S)",4,1,4,46.5,44.8,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Core i5-4570)",4,1,4,52.9,51.1,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Core i5-4570S)",4,1,4,50.6,48.7,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Core i5-4670)",4,1,4,55.6,53.6,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Core i5-4670K)",4,1,4,56.2,54.2,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Core i5-4670K)",4,1,4,55.6,53.6,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Core i5-4670S)",4,1,4,53.2,51.3,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Pentium G3220)",2,1,2,42.6,40.8,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Pentium G3220T)",2,1,2,37.9,36.3,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Pentium G3420)",2,1,2,44.9,42.9,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Pentium G3420T)",2,1,2,39.6,37.9,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ87PG motherboard (Intel Pentium G3430)",2,1,2,46.2,44,Jul-2014
+CINT2006,"Intel Corporation","Intel DQ965GF motherboard (Intel Core 2 Duo E6700)",2,1,2,19.8,17.8,Aug-2007
+CINT2006,"Intel Corporation","Intel DQ965GF motherboard (Intel Core 2 Quad Q6600)",4,1,4,18.2,16.3,Aug-2007
+CINT2006,"Intel Corporation","Intel DQ965GF motherboard (Intel Core 2 Quad Q6700)",4,1,4,19.7,17.6,Aug-2007
+CINT2006,"Intel Corporation","Intel DX58SO motherboard (Intel Core i7-980X)",6,1,6,37.2,35.5,Mar-2010
+CINT2006,"Intel Corporation","Intel DX58SO2 Motherboard (Intel Core i7-930)",4,1,4,35,33.1,Aug-2011
+CINT2006,"Intel Corporation","Intel DX58SO2 Motherboard (Intel Core i7-960)",4,1,4,38.7,36.3,Aug-2011
+CINT2006,"Intel Corporation","Intel DX58SO2 Motherboard (Intel Core i7-975 Extreme Edition)",4,1,4,40.8,38.5,Aug-2011
+CINT2006,"Intel Corporation","Intel DX58SO2 Motherboard (Intel Core i7-990X)",6,1,6,42.3,40.1,Aug-2011
+CINT2006,"Intel Corporation","Intel DX58SO2 Motherboard (Intel Core i7-990X)",6,1,6,42.2,40.2,Aug-2011
+CINT2006,"Intel Corporation","Intel DX58SO2 Motherboard (Intel Core i7-990X)",6,1,6,40.1,38.3,May-2011
+CINT2006,"Intel Corporation","Intel DX58SO2 motherboard (Intel Core i7-990X Extreme Edition)",6,1,6,40.6,38.9,Dec-2011
+CINT2006,"Intel Corporation","Intel DX79SI motherboard (Intel Core i7-3960X Extreme Edition)",6,1,6,49,46.4,Dec-2011
+CINT2006,"Intel Corporation","Intel DZ68DB motherboard (Intel Core i7-2600K)",4,1,4,49.8,47.3,Oct-2011
+CINT2006,"Intel Corporation","Intel DZ68DB motherboard (Intel Core i7-2600K)",4,1,4,52.8,49.6,Oct-2011
+CINT2006,"Intel Corporation","Intel Desktop Board DQ35JO (Intel Core 2 Duo E8200)",2,1,2,21.4,19.4,Mar-2008
+CINT2006,"Intel Corporation","Intel Desktop Board DQ35JO (Intel Core 2 Duo E8400)",2,1,2,23.5,21.2,Mar-2008
+CINT2006,"Intel Corporation","Intel Desktop Board DQ35JO (Intel Core 2 Duo E8500)",2,1,2,24.6,22.2,Mar-2008
+CINT2006,"Intel Corporation","Intel Desktop Board DQ35JO (Intel Core 2 Duo Q9300)",4,1,4,19.3,17.5,Mar-2008
+CINT2006,"Intel Corporation","Intel Desktop Board DQ35JO (Intel Core 2 Duo Q9450)",4,1,4,22.4,19.7,Mar-2008
+CINT2006,"Intel Corporation","Intel Desktop Board DQ35JO (Intel Core 2 Duo Q9550)",4,1,4,23.5,20.6,Mar-2008
+CINT2006,"Intel Corporation","Intel QSSC-S4R (Intel Xeon E7530, 1.86 GHz)",24,4,6,24.6,22.4,May-2010
+CINT2006,"Intel Corporation","Intel QSSC-S4R (Intel Xeon E7540, 2.00 GHz)",24,4,6,27.1,24.5,May-2010
+CINT2006,"Intel Corporation","Intel QSSC-S4R (Intel Xeon X7550, 2.00 GHz)",32,4,8,28.6,25.5,May-2010
+CINT2006,"Intel Corporation","Intel Server System S7000FC4UR (Intel Xeon E7420)",16,4,4,19.2,16.9,Nov-2008
+CINT2006,"Intel Corporation","Intel Server System S7000FC4UR (Intel Xeon E7430)",16,4,4,19.9,17.5,Nov-2008
+CINT2006,"Intel Corporation","Intel Server System S7000FC4UR (Intel Xeon L7445)",16,4,4,19.9,17.5,Nov-2008
+CINT2006,"Intel Corporation","Intel Server System S7000FC4UR (Intel Xeon X7460)",24,4,6,25,21.7,Oct-2008
+CINT2006,"Intel Corporation","Lenovo SureServer R630 G7 (Intel Xeon E7440)",16,4,4,22.5,19.7,Nov-2008
+CINT2006,"Intel Corporation","Lenovo SureServer R630 G7 (Intel Xeon E7450)",24,4,6,22.2,19.3,Nov-2008
+CINT2006,"Intel Corporation","Lenovo SureServer R630 G7 (Intel Xeon L7455)",24,4,6,20,17.4,Nov-2008
+CINT2006,"Intel Corporation","Lenovo T400 (Intel Core 2 Duo T9900)",2,1,2,26.1,23.7,Jun-2009
+CINT2006,"Intel Corporation","Lenovo ThinkPad T43 (Intel Pentium M 780)",1,1,1,11.4,10.7,Jan-2008
+CINT2006,"Intel Corporation","Lenovo ThinkPad T60 (Intel Core Duo T2700)",2,1,2,13.1,12,Jan-2008
+CINT2006,"Intel Corporation","Lenovo ThinkPad T61 (Intel Core 2 Duo T7800)",2,1,2,19.2,17.5,Jan-2008
+CINT2006,"Intel Corporation","Lenovo ThinkPad T61 (Intel Core 2 Duo T9500)",2,1,2,20.1,18.1,Jan-2008
+CINT2006,"Intel Corporation","Lenovo Thinkpad T400",2,1,2,21.5,19.4,Sep-2008
+CINT2006,"Intel Corporation","Lenovo Thinkpad T60",2,1,2,12.9,12.1,Sep-2008
+CINT2006,"Intel Corporation","Lenovo Thinkpad T61",2,1,2,19.3,17.5,Sep-2008
+CINT2006,"Intel Corporation","Supermicro SuperServer 6026T-NTR+ (Intel Xeon E5502, 1.86 GHz)",4,2,2,19.9,17.9,Mar-2009
+CINT2006,"Intel Corporation","Supermicro SuperServer 6026T-NTR+ (Intel Xeon E5504, 2.00 GHz)",8,2,4,21.3,19.2,Mar-2009
+CINT2006,"Intel Corporation","Supermicro SuperServer 6026T-NTR+ (Intel Xeon E5506, 2.13 GHz)",8,2,4,22.5,20.2,Mar-2009
+CINT2006,"Intel Corporation","Supermicro SuperServer 6026T-NTR+ (Intel Xeon E5520. 2.26 GHz)",8,2,4,27.8,24.7,Mar-2009
+CINT2006,"Intel Corporation","Supermicro SuperServer 6026T-NTR+ (Intel Xeon E5530, 2.40 GHz)",8,2,4,29.1,25.8,Mar-2009
+CINT2006,"Intel Corporation","Supermicro SuperServer 6026T-NTR+ (Intel Xeon E5540, 2.53 GHz)",8,2,4,30.4,27,Mar-2009
+CINT2006,"Intel Corporation","Supermicro SuperServer 6026T-NTR+ (Intel Xeon L5506, 2.13 GHz)",8,2,4,22.5,20.3,Mar-2009
+CINT2006,"Intel Corporation","Supermicro SuperServer 6026T-NTR+ (Intel Xeon L5520, 2.26 GHz)",8,2,4,27.9,24.7,Mar-2009
+CINT2006,"Intel Corporation","Supermicro SuperServer 6026T-NTR+ (Intel Xeon X5550, 2.66 GHz)",8,2,4,33.5,29.7,Mar-2009
+CINT2006,"Intel Corporation","Supermicro SuperServer 6026T-NTR+ (Intel Xeon X5560, 2.80 GHz)",8,2,4,34.6,30.8,Mar-2009
+CINT2006,"Intel Corporation","Supermicro SuperServer 6026T-NTR+ (Intel Xeon X5570, 2.93 GHz)",8,2,4,35.9,31.9,Mar-2009
+CINT2006,"Intel Corporation","Supermicro SuperServer 7046A-T (Intel Xeon X5677, 3.46 GHz)",8,2,4,39.8,37.8,May-2010
+CINT2006,"Intel Corporation","Supermicro SuperServer 7046A-T (Intel Xeon X5680, 3.33 GHz)",12,2,6,38.1,36.3,May-2010
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon X5270)",4,2,2,30.2,26.5,Oct-2008
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon X5470)",8,2,4,30.2,26.3,Oct-2008
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon processor 5110, 1.60 GHz)",4,2,2,12.6,11.4,Jul-2007
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon processor 5120, 1.86 GHz)",4,2,2,14.1,12.8,Jun-2007
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon processor 5130, 2.00 GHz)",4,2,2,15.5,14,Jul-2007
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon processor 5140, 2.33 GHz)",4,2,2,17.4,15.7,Jun-2007
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon processor 5150, 2.66 GHz)",4,2,2,19.1,17.3,Jun-2007
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon processor 5160, 3.00 GHz)",4,2,2,20.8,18.9,Jun-2007
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon processor E5310, 1.60 GHz)",8,2,4,12.6,11.5,Jun-2007
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon processor E5320, 1.86 GHz)",8,2,4,14.2,12.9,Jun-2007
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon processor E5335, 2.00 GHz)",8,2,4,15.6,14.2,Jun-2007
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon processor E5345, 2.33 GHz)",8,2,4,17.5,15.9,Jun-2007
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon processor X5355, 2.66 GHz)",8,2,4,19.1,17.3,Jun-2007
+CINT2006,"Intel Corporation","Supermicro X7DB8+ (Intel Xeon processor X5365, 3.00 GHz)",8,2,4,20.8,18.9,Jun-2007
+CINT2006,"Intel Corporation","Supermicro X7DWN (Intel Xeon X5482)",8,2,4,29.7,26.1,Oct-2008
+CINT2006,"Intel Corporation","Supermicro X8DAI (Intel Xeon W3570, 3.2 GHz)",4,1,4,35.7,32.2,Mar-2009
+CINT2006,"Intel Corporation","Supermicro X8DAI (Intel Xeon W3570, 3.2 GHz)",4,1,4,34.5,32.5,Mar-2009
